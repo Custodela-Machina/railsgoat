@@ -33,6 +33,7 @@ Navigate into the directory (already there if you followed the previous step) an
 $ bundle install
 ```
 
+
 If you receive an error, make sure you have `bundler` installed:
 
 ```bash
